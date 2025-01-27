@@ -3,7 +3,7 @@
 trait Stu
 {
 public function demo(){
-	echo "hello yugal";
+	echo "hello ravi new";
 }
 }
 class base
